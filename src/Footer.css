@@ -1,0 +1,72 @@
+
+footer{
+    background-color: #111482;
+    margin-top: 150px;
+}
+
+footer .footer-details{
+    margin-left: 150px;
+    margin-right: 150px;
+    display: flex;
+    margin-bottom: 20px;
+}
+footer .footer-details ul li{
+    font-weight: 100;
+    color: white;
+    list-style-type: none;
+    line-height: 2;
+    font-size: 16px;
+}
+footer .footer-details ul{
+    width: 30%;
+    padding-top: 10px;
+    margin-right: 30px;
+    margin-left: 20px;
+}
+footer span i{
+    color: white;
+    margin-right: 2px;
+}
+footer button{
+    display: flex;
+    height: 36px;
+    width: 130px;
+    border-radius: 6px;
+    border-width: 0px;
+}
+footer button i{
+    font-size: 25px;
+    color: #b5bdbc;
+    margin-top: 3px;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+footer small{
+    color:#b5bdbc;
+    font-size: 10px;
+}
+footer p{
+    color: #b5bdbc;
+    font-size: 10px;
+    font-weight: bold;
+}
+footer .apple{
+    margin-top: 8px;
+}
+footer .play-store{
+    margin-top: 8px;
+}
+footer .copyrights{
+    border-top: 1px solid #409df5;
+    text-align: center;
+    color: white;
+    margin-right: 150px;
+    margin-left: 150px;
+    font-size: 10px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+

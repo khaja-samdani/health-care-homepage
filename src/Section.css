@@ -1,0 +1,136 @@
+
+
+section .banner-img img{
+    position: relative;
+    position: absolute;
+    width: 1200px;
+    height: 300px;
+    background-size: cover;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 40px;
+    z-index: -1;
+    
+}
+section .fb-btn{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 130px;
+    margin-right: 140px;
+}
+.first-angle{
+    color: rgb(127, 122, 122);
+}
+section .fb-btn i{
+    background-color: white;
+    border-radius: 50%;
+    box-shadow: 4px 4px 3px #ddd;
+    padding: 18px;
+    margin-top: 160px;
+}
+section .popular-tests{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 170px;
+    
+}
+.popular-tests1{
+    display: flex;
+}
+.pop-tests-img img {
+    width: 60px;
+    height: 60px;
+    background-color: #d0f7f7;
+    border-radius: 50%;
+    padding: 8px;
+}
+section .pop-tests-items{
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    width: 25%;
+    padding: 12px;
+    margin-top: 20px;
+    margin-right: 15px;
+}
+section .test-item-footer{
+    display: flex;
+    justify-content: space-between;
+    border-top: 2px solid #ddd;
+    margin-top: 6px;
+}
+section .test-item-footer h2{
+    font-weight: 500;
+    font-size: 20px;
+}
+section .test-item-footer span:first-of-type{
+    color: #b5bdbc;
+    text-decoration: line-through;
+}
+section .pop-tests-para p{
+    color: #b5bdbc;
+    line-height: 1.3;
+}
+section .pop-tests-para h3{
+    color: #2a2b2b;
+    font-family: "Roboto";
+}
+section .pop-tests-para{
+    margin-top: 6px;
+    padding-bottom: 6px;
+}
+section .test-prices{
+    margin-top: 10px;
+    margin-bottom: 6px;
+}
+section .test-prices .test-off{
+    color: #64e85a;
+    margin-left: 4px;
+}
+section .test-item-footer button{
+    margin-top: 16px;
+    color: #1a9edb;
+    border-width: 2px;
+    border-color: #1a9edb;
+    height: 34px;
+    width: 124px;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+.section1{
+    background-color: whitesmoke;
+}
+section .popular-tests2{
+    margin-top: 80px;
+    margin-right: 150px;
+    margin-left: 150px;
+    padding-bottom: 20px;
+}
+section .popular-tests2 h2{
+    padding-top: 12px;
+}
+section .popular-tests2-header{
+    display: flex;
+    justify-content: space-between;
+}
+section .popular-tests2-header p{
+    margin-top: 18px;
+    color: #111482;
+    font-size: 18px;
+    font-weight: 600;
+}
+section .popular-tests3{
+    margin-top: 50px;
+    margin-right: 150px;
+    margin-left: 150px;
+    padding-bottom: 20px;
+}
+.pop-test-items-sec1{
+    background-color: white;
+}
+section .pop-tests-items .bg-btn{
+    background-color: #1a9edb;
+    color: white;
+    border-width: 0px;
+}
+

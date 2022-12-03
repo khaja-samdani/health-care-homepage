@@ -1,0 +1,76 @@
+
+header{
+    background-color: #111482;
+    height: 90px;
+    display: flex;
+    flex-wrap: wrap;
+}
+header div img{
+    width: 66px;
+    display: block;
+    height: 60px;
+    border-radius: 8px;
+    margin-left: 140px;
+    margin-top: 15px;
+}
+header div{
+    display: flex;
+}
+header div p{
+    margin-top: 33px;
+    margin-left: 18px;
+    color: white;
+    font-size: 24px;
+}
+header span i{
+    font-size: 15px;
+    color: white;
+    display: flex;
+    margin-top: 36px;
+    margin-right: 15px;
+}
+header .icons{
+    margin-left: 65px;
+}
+.bg-color3{
+    background-color: #324ea8;
+}
+header .logo{
+    color: #111482;
+    margin-top: 46px;
+    margin-left: 150px;
+}
+header button{
+    height: 38px;
+    width: 120px;
+    border-width: 1px;
+    border-color: #111482;
+    border-radius: 8px;
+    font-size: 16px;
+    color: #111482;
+    margin-left: 900px;
+}
+header .cart{
+    margin-top: 10px;
+    margin-left: 75px;
+}
+header .cart i{
+    font-size: 25px;
+    color: #111482;
+}
+header .cart i sup{
+    font-size: 8px;
+    color: white;
+    background-color: #1a9edb;
+    border-radius: 50%;
+    padding-top: 9px;
+    padding-left: 8px;
+    padding-bottom: 7px;
+    padding-right: 7px;
+}
+header .cart i sup p{
+    font-size: 18px;
+}
+
+
+ 
